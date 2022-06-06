@@ -1,5 +1,5 @@
 - 👀 I’m interested in embedded systems, UI/UX, edge computing
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning about AI
 
 <!---
 michaelrboyd/michaelrboyd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
